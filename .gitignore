@@ -1,0 +1,6 @@
+bin
+obj
+/packages
+SoundOfSilence.sln.DotSettings.user
+.idea
+.vs
